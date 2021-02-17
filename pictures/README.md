@@ -1,6 +1,6 @@
 <h2 align="center">Cycle Buddy</h2>  
 <p align="center">
-  <a href="https://github.com/krogk/AgroPi">
+  <a href="https://github.com/OmarJabri7/Cycle_Buddy">
     <img src="media/images/logo1.png" alt="Logo" >
   </a>
   
@@ -13,10 +13,9 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
-    <li>
-     <li><a href="#about">About</a>
-     <li><a href="#software">Software</a></li>
-     <li><a href="#hardware">Hardware</a></li>       
+    <li><a href="#about">About</a>
+    <li><a href="#software">Software</a></li>
+    <li><a href="#hardware">Hardware</a></li>       
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#Packages needed">Packages needed</a>

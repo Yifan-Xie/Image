@@ -14,11 +14,11 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
-    <li><a href="#Robocup ROS Workspace Basics">Robocup ROS Workspace Basics</a>
+    <li><a href="#Robocup ROS Workspace Basics">Robocup ROS Workspace Basics</a></li>
     <li><a href="#Run the game master and game simulator">Run the game master and game simulator</a></li>
     <li><a href="#Configure the PyCharm development environment">Configure the PyCharm development environment</a></li>   
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#Packages needed">Packages needed</a>
+    <li><a href="#Packages needed">Packages needed</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>

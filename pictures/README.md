@@ -6,6 +6,8 @@
   
   <p align="center">
     To keep people can ride bike more safely on the road.
+    Please follow our youtube channel   
+    @CycleBuddy: https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw
     <br />
 </div>
 
@@ -28,8 +30,7 @@
 
 <!-- Project descirption -->
 ## About
-
-Cycle Buddy is ...
+Cycle Buddy is System that detects danger levels in bikers relative to drivers. Once a driver overpasses a biker, the system detects this unauthorised act, and responds by recognising the face/car plate of the driver in order to contact law enforcements.
 <br />
 <br />
 details: 
@@ -44,7 +45,9 @@ Cycle Buddy will ...
 </div>
 
 ### Software
-VNC, Putty
+* [VNC]
+
+* [Putty]
 <br />
 
 ### Hardware

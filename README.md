@@ -104,14 +104,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- Contact Info -->
 ## Contact
-[Szymon](https://github.com/szgula)
+Szymon @[Szymon](https://github.com/szgula)
 <br />
-[Feng](https://github.com/fengfengFinn)
+Feng @[Feng](https://github.com/fengfengFinn)
 <br />
-[Omar](https://github.com/OmarJabri7)
+Omar @[Omar](https://github.com/OmarJabri7)
 <br />
-[Yifan](https://github.com/Yifan-Xie)
+Yifan @[Yifan](https://github.com/Yifan-Xie)
 <br />
-[Shrey](https://github.com/shreyExp)
+Shrey @[Shrey](https://github.com/shreyExp)
 <br />
 [Project address](https://github.com/szgula/UofG_Robotics_TDP)

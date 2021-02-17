@@ -5,7 +5,7 @@
   </a>
   
   <p align="center">
-    Learn about aspects of cultivating plants or fungus through a Raspberry Pi driven environmental system. 
+    To keep people can ride bike more safely on the road.
     <br />
 </div>
 

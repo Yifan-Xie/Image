@@ -100,12 +100,18 @@ How to contribute the project.
 
 <!-- License -->
 ## License
-Distributed under the GPL-3.0 License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- Contact Info -->
 ## Contact
-[Omar Jabri](https://github.com/OmarJabri7)
+[Szymon](https://github.com/szgula)
 <br />
-[Yifan Xie](https://github.com/Yifan-Xie)
+[Feng](https://github.com/fengfengFinn)
+<br />
+[Omar](https://github.com/OmarJabri7)
+<br />
+[Yifan](https://github.com/Yifan-Xie)
+<br />
+[Shrey](https://github.com/shreyExp)
 <br />
 [Project address](https://github.com/szgula/UofG_Robotics_TDP)

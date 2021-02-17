@@ -1,7 +1,7 @@
 <h2 align="center">UofG_Robotics_TDP</h2>  
 <p align="center">
   <a href="https://github.com/szgula/UofG_Robotics_TDP">
-    <img src="https://github.com/Yifan-Xie/Image/blob/Cycle_Buddy/pictures/Cycle_Buddy_Logo.png" alt="Logo" >
+    <img src="https://github.com/Yifan-Xie/Image/blob/Robotic-TDP/pictures/Robotic.png" alt="Logo" >
   </a>
   
   <p align="center">
@@ -14,7 +14,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
-    <li><a href="#Robocup ROS Workspace Basics:">Robocup ROS Workspace Basics</a>
+    <li><a href="#Robocup ROS Workspace Basics">Robocup ROS Workspace Basics</a>
     <li><a href="#Run the game master and game simulator">Run the game master and game simulator</a></li>
     <li><a href="#Configure the PyCharm development environment">Configure the PyCharm development environment</a></li>   
     </li>

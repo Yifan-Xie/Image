@@ -49,15 +49,15 @@ Cycle Buddy will ...
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/krogk/AgroPi.svg?style=for-the-badge)](https://github.com/krogk/AgroPi/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/krogk/AgroPi.svg?style=for-the-badge)](https://github.com/krogk/AgroPi/network/members)
-[![Stars](https://img.shields.io/github/stars/krogk/AgroPi.svg?style=for-the-badge)](https://github.com/krogk/AgroPi/stargazers)
-[![Issues](https://img.shields.io/github/issues/krogk/AgroPi.svg?style=for-the-badge)](https://github.com/krogk/AgroPi/issues)
-[![License](https://img.shields.io/github/license/krogk/AgroPi.svg?style=for-the-badge)](https://github.com/krogk/AgroPi/blob/main/LICENSE)
+[![Contributors](https://github.com/OmarJabri7/Cycle_Buddy/graphs/contributors)
+[![Forks]](https://github.com/OmarJabri7/Cycle_Buddy/network/members)
+[![Stars]]https://github.com/OmarJabri7/Cycle_Buddy/stargazers)
+[![Issues]](https://github.com/OmarJabri7/Cycle_Buddy/issues)
+[![License]](https://github.com/OmarJabri7/Cycle_Buddy/blob/main/LICENSE)
 
 <br />
 
-  <a href="https://github.com/krogk/AgroPi">
+  <a href="https://github.com/OmarJabri7/Cycle_Buddy">
     <img src="media/images/agropitopright.PNG" alt="Concept Render" >
   </a>
 

@@ -14,25 +14,16 @@
   <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about">About</a>
-      <ul>
-        <li><a href="#software">Software</a></li>
-        <li><a href="#hardware">Hardware</a></li>
-        <li><a href="#roadmap">Roadmap</a></li>
-      </ul>
+     <li><a href="#about">About</a>
+     <li><a href="#software">Software</a></li>
+     <li><a href="#hardware">Hardware</a></li>       
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-      </ul>
-    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#Packages needed">Packages needed</a>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#wiki">Wiki</a></li>
   </ol>
 </details>
 
@@ -48,61 +39,44 @@ details:
 Cycle Buddy will ...
 
 <div align="center">
-
-[![Contributors](https://github.com/OmarJabri7/Cycle_Buddy/graphs/contributors)
-[![Forks]](https://github.com/OmarJabri7/Cycle_Buddy/network/members)
-[![Stars]]https://github.com/OmarJabri7/Cycle_Buddy/stargazers)
-[![Issues]](https://github.com/OmarJabri7/Cycle_Buddy/issues)
-[![License]](https://github.com/OmarJabri7/Cycle_Buddy/blob/main/LICENSE)
-
+  
 <br />
-
-  <a href="https://github.com/OmarJabri7/Cycle_Buddy">
-    <img src="media/images/agropitopright.PNG" alt="Concept Render" >
-  </a>
-
 
 </div>
 
 ### Software
-
+VNC, Putty
 <br />
 
 ### Hardware
-
 * [Raspberry Pi 3 Model B +]
 
-Sensors:
-
+* [Sensors: Hall sensors, Ultrasonic sensors, Pi camera]
 
 <br />
 
 
 ## Roadmap
-
+The step to finish the project.
 
 <!-- Getting Started -->
 ## Packages needed
-
+Cmake and OpenCv now.
 
 <!-- Usage -->
 ## Usage
-
+The method to use it.
 
 <!-- Contributing -->
 ## Contributing
-
-See `CONTRIBUTING` for more information.
+How to contribute the project.
 
 <!-- License -->
 ## License
-
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
-
 
 <!-- Contact Info -->
 ## Contact
-
 [Omar Jabri](https://github.com/OmarJabri7)
 <br />
 [Chang Liu](https://github.com/Cliu1993)

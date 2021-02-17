@@ -18,7 +18,7 @@
     <li><a href="#Run the game master and game simulator">Run the game master and game simulator</a></li>
     <li><a href="#Configure the PyCharm development environment">Configure the PyCharm development environment</a></li>   
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#Packages needed">Packages needed</a></li>
+    <li><a href="#Packages">Packages</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -26,7 +26,6 @@
   </ol>
 </details>
 
-<!-- Project descirption -->
 ## Robocup ROS Workspace Basics
 1. Head to robocup_ws (workspace):   
 `cd robocup_ws`  
@@ -86,7 +85,7 @@
 The step to finish the project.
 
 <!-- Getting Started -->
-## Packages needed
+## Packages
 Cmake and OpenCv now.
 
 <!-- Usage -->

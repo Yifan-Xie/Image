@@ -44,30 +44,13 @@ Following are the design stages for the project
 
 ## Methodology
 
-### Add alias 
-1.For ROS
-2. For PyCharm
-
-### PyCharm - setting the project
-1. In Pycharm open project with UofG_Robotics_TDP as a source folder
-2. ``file -> Settings -> Project: UofG_Robotics_TDP -> Project Structure``
-3. Right click on ```robotcap_ws``` folder and click on ```source```
-
-### Pre-requirements 
-
-### How to test:
-
 ## Results and Analysis
-The step to finish the project.
 
 ## Conclusions
 
-
 ## References
-The method to use it.
 
 ## Appendices
-How to contribute the project.
 
 <!-- Contact Info -->
 ## Contact

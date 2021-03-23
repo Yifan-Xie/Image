@@ -5,7 +5,7 @@
   </a>
   
   <p align="center">
-    **Robotics Team Design Project at University of Glasgow**
+    Robotics Team Design Project at University of Glasgow
     <br />
     <br />
 </div>

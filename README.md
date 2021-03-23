@@ -14,14 +14,14 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
-    <li><a href="#Abstract">Robocup ROS Workspace Basics</a></li>
-    <li><a href="#Introduction">Run the game master and game simulator</a></li>
-    <li><a href="#Methodology">Configure the PyCharm development environment</a></li>   
-    <li><a href="#Results and Analysis">Roadmap</a></li>
-    <li><a href="#Conclusions">Packages</a></li>
-    <li><a href="#References">Usage</a></li>
-    <li><a href="#Appendices">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Abstract">Abstract</a></li>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#Methodology">Methodology</a></li>   
+    <li><a href="#Results and Analysis">Results and Analysis</a></li>
+    <li><a href="#Conclusions">Conclusions</a></li>
+    <li><a href="#References">References</a></li>
+    <li><a href="#Appendices">Appendices</a></li>
+    <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
 
